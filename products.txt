@@ -1,0 +1,5 @@
+{'id': 170, 'name': 'Durango SXT RWD', 'category': 'vehicle', 'price': 36999.99, 'rating': 4.07, 'inStock': True}
+{'id': 168, 'name': 'Charger SXT RWD', 'category': 'vehicle', 'price': 32999.99, 'rating': 2.58, 'inStock': True}
+{'id': 171, 'name': 'Pacifica Touring', 'category': 'vehicle', 'price': 31999.99, 'rating': 3.62, 'inStock': True}
+{'id': 167, 'name': '300 Touring', 'category': 'vehicle', 'price': 28999.99, 'rating': 4.05, 'inStock': True}
+{'id': 169, 'name': 'Dodge Hornet GT Plus', 'category': 'vehicle', 'price': 24999.99, 'rating': 2.65, 'inStock': True}
